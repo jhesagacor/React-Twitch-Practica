@@ -137,3 +137,7 @@ aside {
   border-radius: 20%;
   text-align: center;
 }
+
+.streamer-gameName{
+  color: gray;
+}
